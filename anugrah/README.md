@@ -4,20 +4,62 @@
 
 ## Skills Being Developed
 
-**AI Layer:**  
-RAG • Prompt Engineering • Document Intelligence
+### AI Layer
 
-**Backend Layer:**  
-Django APIs • Vector Databases
+* Retrieval-Augmented Generation (RAG)
+* LangChain Framework
+* Prompt Engineering
+* Document Parsing & Chunking
+* Multi-Document Retrieval
+* Embedding-Based Retrieval
 
-**Deployment Layer:**  
-Docker • Production Setup
+---
 
-**Engineering Layer:**  
-Debugging • Architecture Design
+### Backend Layer
 
-**Professional Layer:**  
-Documentation • Execution Discipline
+* Django REST API Development
+* Vector Database Integration (FAISS / Chroma)
+* File Processing Pipelines
+* Metadata Handling & Storage
+
+---
+
+### Deployment Layer
+
+* Docker Containerization
+* Docker Compose
+* Environment Variable Configuration
+* Basic Cloud Deployment
+
+---
+
+### DevOps Layer
+
+* CI/CD Pipelines
+* GitHub Actions Workflow Setup
+* Automated Builds
+* Docker Image Automation
+
+---
+
+### Engineering Layer
+
+* Debugging Complex Workflows
+* System Architecture Design
+* Pipeline Design
+* Error Handling
+* Logging Basics
+
+---
+
+### Professional Layer
+
+* Technical Documentation
+* Execution Discipline
+* Version Control Workflow (Git)
+* Learning-by-Building
+
+---
 
 ## Overview
 
@@ -251,7 +293,7 @@ Day 60 - Journey Summary and Next Steps
 
 ## Tools and Technologies
 
-**Programming Languages**
+**Languages**
 - Python
 - JavaScript
 
@@ -259,19 +301,17 @@ Day 60 - Journey Summary and Next Steps
 - Django
 - React
 
-**AI Technologies**
+**AI**
 - LangChain
-- FAISS
-- OpenAI APIs
+- FAISS / Chroma
 
 **DevOps**
 - Docker
-- Docker Compose
+- GitHub Actions
 
-**Other Tools**
+**Version Control**
 - Git
 - GitHub
-- VS Code
 
 ## Main Project - Research and Patent Insight Engine
 

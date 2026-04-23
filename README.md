@@ -25,41 +25,46 @@ This repository acts as a shared dashboard for both contributors.
 
 * Retrieval-Augmented Generation (RAG)
 * LangChain Framework
-* Prompt Engineering (Structured Prompting)
-* Document Intelligence Systems
-* Multi-Document Processing
+* Prompt Engineering
+* Document Parsing & Chunking
+* Multi-Document Retrieval
 * Embedding-Based Retrieval
-* Research & Patent Document Analysis
 
 ### Backend Layer:
 
 * Django REST API Development
 * Vector Database Integration (FAISS / Chroma)
-* File Upload & Processing Pipelines
+* File Processing Pipelines
 * Metadata Handling & Storage
-* Multi-Document Workflow Management
 
 ### Deployment Layer:
 
 * Docker Containerization
-* Docker Compose (Multi-Service Setup)
-* Environment Configuration
-* Deployment Fundamentals
+* Docker Compose
+* Environment Variable Configuration
+* Basic Cloud Deployment
+
+### DevOps Layer:
+
+* CI/CD Pipeline Design
+* GitHub Actions Workflow Setup
+* Automated Builds
+* Docker Image Automation
 
 ### Engineering Layer:
 
-* System Architecture Design
 * Debugging Complex Workflows
+* System Architecture Design
 * Pipeline Design Thinking
 * Error Handling Strategies
+* Logging Basics
 
 ### Professional Layer:
 
 * Technical Documentation
 * Execution Discipline
+* Version Control Workflow (Git)
 * Learning-by-Building Methodology
-* Problem Decomposition
-* Engineering Decision Tracking
 
 ## 4. Skills Focus — Sinan
 
