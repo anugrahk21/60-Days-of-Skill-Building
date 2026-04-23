@@ -1,4 +1,4 @@
-# AI Learning Dual Journey
+# 60 Days of Learning: Dual Journey
 
 > "Documenting Structured Daily Learning Across Multiple Technical Domains"
 
