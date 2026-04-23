@@ -7,6 +7,6 @@ This folder contains Sinan's structured daily learning documentation.
 
 ## Contact
 
-- LinkedIn: [LinkedIn](PASTE_SINAN_LINKEDIN_HERE)
-- GitHub: [GitHub](PASTE_SINAN_GITHUB_HERE)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sinanachipra/)
+- GitHub: [GitHub](https://github.com/Sinanaag)
 - Email: [Email](mailto:PASTE_SINAN_EMAIL_HERE)
