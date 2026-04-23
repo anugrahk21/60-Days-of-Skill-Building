@@ -237,8 +237,8 @@ Contributions are welcome through:
 
 | Contributor | LinkedIn | GitHub | Email |
 | ----------- | -------- | ------ | ----- |
-| Anugrah | [LinkedIn](PASTE_ANUGRAH_LINKEDIN_HERE) | [GitHub](PASTE_ANUGRAH_GITHUB_HERE) | [Email](mailto:PASTE_ANUGRAH_EMAIL_HERE) |
-| Sinan | [LinkedIn](PASTE_SINAN_LINKEDIN_HERE) | [GitHub](PASTE_SINAN_GITHUB_HERE) | [Email](mailto:PASTE_SINAN_EMAIL_HERE) |
+| Anugrah | [LinkedIn](https://www.linkedin.com/in/anugrah-k/) | [GitHub](https://github.com/anugrahk21) | [Email](mailto:anugrah.k910@gmial.com) |
+| Sinan | [LinkedIn](https://www.linkedin.com/in/sinanachipra/) | [GitHub](https://github.com/Sinanaag) | [Email](mailto:PASTE_SINAN_EMAIL_HERE) |
 
 ## 14. License
 

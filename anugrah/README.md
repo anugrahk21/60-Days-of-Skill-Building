@@ -330,9 +330,9 @@ Future goals may include:
 
 ## Contact
 
-- LinkedIn: [LinkedIn](PASTE_ANUGRAH_LINKEDIN_HERE)
-- GitHub: [GitHub](PASTE_ANUGRAH_GITHUB_HERE)
-- Email: [Email](mailto:PASTE_ANUGRAH_EMAIL_HERE)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anugrah-k/)
+- GitHub: [GitHub](https://github.com/anugrahk21)
+- Email: [Email](mailto:anugrah.k910@gmial.com)
 
 ## License
 
