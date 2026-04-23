@@ -328,6 +328,12 @@ Future goals may include:
 - Feature expansion
 - Advanced deployment workflows
 
+## Contact
+
+- LinkedIn: [LinkedIn](PASTE_ANUGRAH_LINKEDIN_HERE)
+- GitHub: [GitHub](PASTE_ANUGRAH_GITHUB_HERE)
+- Email: [Email](mailto:PASTE_ANUGRAH_EMAIL_HERE)
+
 ## License
 
 This documentation is currently maintained for learning and portfolio demonstration purposes.

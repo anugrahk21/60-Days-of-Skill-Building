@@ -233,7 +233,14 @@ Contributions are welcome through:
 - Discussions around technical decisions, tools, and project direction.
 - Knowledge sharing that helps both contributors improve execution and outcomes.
 
-## 13. License
+## 13. Contact
+
+| Contributor | LinkedIn | GitHub | Email |
+| ----------- | -------- | ------ | ----- |
+| Anugrah | [LinkedIn](PASTE_ANUGRAH_LINKEDIN_HERE) | [GitHub](PASTE_ANUGRAH_GITHUB_HERE) | [Email](mailto:PASTE_ANUGRAH_EMAIL_HERE) |
+| Sinan | [LinkedIn](PASTE_SINAN_LINKEDIN_HERE) | [GitHub](PASTE_SINAN_GITHUB_HERE) | [Email](mailto:PASTE_SINAN_EMAIL_HERE) |
+
+## 14. License
 
 This project is currently shared for learning and documentation purposes.
 
